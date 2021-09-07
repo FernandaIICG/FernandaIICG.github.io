@@ -1,2 +1,4 @@
 $ git checkout -b source
 $ pipenv shell
+
+$ pipenv install pelican markdown ghp-import
